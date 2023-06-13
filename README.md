@@ -1,4 +1,4 @@
-<a href="https://ibb.co/3NdtPSJ"><img src="https://i.ibb.co/2thXpcb/Blue-And-Red-Futuristic-Game-You-Tube-Channel-Art.png" alt="Blue-And-Red-Futuristic-Game-You-Tube-Channel-Art" border="0" align="right"></a>
+<img src="https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner-768x200.png" alt="banner" width="1050">
 <h1 align="center">I'm Bartosz</h1>
 <h3 align="center">The next best frontend developer from Poland</h3>
 
