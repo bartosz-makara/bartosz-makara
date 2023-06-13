@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **makarabartosz@proton.me**
 
-- ⚡ Fun fact **In original version of 'Peter Pan', Peter is a sinister demon who abducts children because he hates mothers**
+- ⚡ Fun fact: **In original version of 'Peter Pan', Peter is a sinister demon who abducts children because he hates mothers**
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
